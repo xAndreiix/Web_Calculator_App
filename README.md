@@ -14,12 +14,6 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ---
 
-## 🚀 Live Demo
-
-*Add your GitHub Pages / Netlify link here once deployed.*
-
----
-
 ## 📂 Project Structure
 
 - .
@@ -47,12 +41,12 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ## 🎹 Keyboard Controls
 
-Key	            |       Action
-0–9	            |       Enter number
-+ - * / %	    |       Operators
-Enter	        |       Calculate
-Backspace	    |       Delete last char
-C / c	        |       Clear display
+- Key	            |       Action
+- 0–9	            |       Enter number
+- + - * / %	      |       Operators
+- Enter	         |       Calculate
+- Backspace	      |       Delete last char
+- C / c	         |       Clear display
 
 ---
 
