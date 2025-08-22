@@ -10,6 +10,21 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/calculator-app.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/calculator-multiplication.png" width="45%">
+  <img src="screenshots/calculator-division.png" width="45%">
+</p>
+
+---
+
 ## 🔧 Features
 
 - Basic arithmetic operations: `+`, `-`, `*`, `/`, `%`
