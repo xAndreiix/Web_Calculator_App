@@ -8,6 +8,7 @@
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
 - 🗂️ [Project structure](#project-structure)
+- 💾 [Installation](#installation)
 - ▶️ [Usage](#usage)
 - ⚠️ [Notes](#notes)
 - 🫱🏻‍🫲🏼 [Contributing](#contributing)
@@ -79,9 +80,9 @@ cd calculator-app
 - Key	            |       Action
 - 0–9	            |       Enter number
 - + - * / %	      |       Operators
-- Enter	         |       Calculate
+- Enter	          |       Calculate
 - Backspace	      |       Delete last char
-- C / c	         |       Clear display
+- C / c	          |       Clear display
 <!-- ## Configuration -->
 <!-- ## Runing tests -->
 <!-- ## Deployment -->
