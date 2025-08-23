@@ -7,6 +7,7 @@
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
+- 🛠️ [Technologies](#technologies)
 - 🗂️ [Project structure](#project-structure)
 - 💾 [Installation](#installation)
 - ▶️ [Usage](#usage)
@@ -49,7 +50,13 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 - Keyboard input support (`0-9`, operators, `Enter`, `Backspace`, `C`)
 - Sound effect on every keypress or button press
 - Display handles `Error` gracefully
-<!-- ## Technologies -->
+
+---
+
+## Technologies
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
 ---
 
