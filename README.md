@@ -61,7 +61,6 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 - ├── LICENSE # MIT license
 - └── README.md # Project documentation
 <!-- ## Requirements -->
-<!-- Installation -->
 
 ---
 
