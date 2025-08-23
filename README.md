@@ -54,12 +54,16 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ## Project Structure
 - 🗂️ Web Calculator App
-- ├── index.html # Main HTML layout
-- ├── style.css # Styling and layout
-- ├── script.js # Calculator logic and keyboard events
-- ├── .gitignore # Git exclusions
-- ├── LICENSE # MIT license
-- └── README.md # Project documentation
+- ├── index.html             # Main HTML layout
+- ├── style.css              # Styling and layout
+- ├── script.js              # Calculator logic and keyboard events
+- ├── screenshots/           # Screenshots to display on GitHub repo
+- │   └── calculator-app.png
+- │   └── calculator-division.png
+- │   └── calculator-multiplication.png
+- ├── .gitignore             # Git exclusions
+- ├── LICENSE                # MIT license
+- └── README.md              # Project documentation
 <!-- ## Requirements -->
 
 ---
