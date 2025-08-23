@@ -1,4 +1,4 @@
-# Calculator App
+# Calculator App 
 
 A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**, complete with keyboard support and button click sounds. Designed to be clean, responsive, and easy to use.
 
