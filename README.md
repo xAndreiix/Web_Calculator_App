@@ -116,7 +116,7 @@ Andrei Iliescu
 [![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
 **Acknowledgments:**  
-- Inspired by @i.code4u tutorial on TikTok.
+- Inspired by [@i.code4u](https://www.tiktok.com/@i.code4u) tutorial on TikTok.
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@i.code4u/photo/7524973171972295958?is_from_webapp=1&sender_device=pc)
 - All thanks to him for the tutorial!
