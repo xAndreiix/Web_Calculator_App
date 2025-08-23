@@ -49,21 +49,22 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 - Keyboard input support (`0-9`, operators, `Enter`, `Backspace`, `C`)
 - Sound effect on every keypress or button press
 - Display handles `Error` gracefully
+<!-- ## Technologies -->
 
 ---
 
 ## Project Structure
 - 🗂️ Web Calculator App
-- ├── index.html             # Main HTML layout
-- ├── style.css              # Styling and layout
-- ├── script.js              # Calculator logic and keyboard events
-- ├── screenshots/           # Screenshots to display on GitHub repo
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── screenshots/
 - │   └── calculator-app.png
 - │   └── calculator-division.png
 - │   └── calculator-multiplication.png
-- ├── .gitignore             # Git exclusions
-- ├── LICENSE                # MIT license
-- └── README.md              # Project documentation
+- ├── .gitignore
+- ├── LICENSE
+- └── README.md
 <!-- ## Requirements -->
 
 ---
