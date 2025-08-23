@@ -52,7 +52,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 ---
 
 ## Project Structure
-- 📁 Web Calculator App
+- 🗂️ Web Calculator App
 - ├── index.html # Main HTML layout
 - ├── style.css # Styling and layout
 - ├── script.js # Calculator logic and keyboard events
