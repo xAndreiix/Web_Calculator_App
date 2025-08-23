@@ -37,7 +37,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ## 📂 Project Structure
 
-- .
+- 📁 root
 - ├── index.html # Main HTML layout
 - ├── style.css # Styling and layout
 - ├── script.js # Calculator logic and keyboard events
@@ -50,13 +50,12 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 ## ✅ How to Use
 
 1. Clone the repository:
-   ```bash```
-   git clone https://github.com/xAndreiix/Web_Calculator_App.git
-   
-   cd calculator-app
-
+```bash
+git clone https://github.com/xAndreiix/Web_Calculator_App.git
+cd calculator-app
 2. Open index.html directly in your browser.
 3. Click or use your keyboard to interact with the calculator.
+```
 
 ---
 
@@ -80,7 +79,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License -- See [LICENSE](LICENSE)
 
 ---
 
