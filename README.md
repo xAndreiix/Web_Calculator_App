@@ -53,9 +53,9 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 ```bash
 git clone https://github.com/xAndreiix/Web_Calculator_App.git
 cd calculator-app
+```
 2. Open index.html directly in your browser.
 3. Click or use your keyboard to interact with the calculator.
-```
 
 ---
 
