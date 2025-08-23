@@ -25,7 +25,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 ---
 
 ## Live Demo
-- [⛓️‍💥 Demo](https://web-calculator-app-wheat.vercel.app/)
+[⛓️‍💥 Demo](https://web-calculator-app-wheat.vercel.app/)
 
 ---
 
