@@ -80,6 +80,8 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 1. Clone the repository:
 ```bash
 git clone https://github.com/xAndreiix/Web_Calculator_App.git
+```
+```bash
 cd calculator-app
 ```
 2. Open index.html directly in your browser.
