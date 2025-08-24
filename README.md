@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
@@ -19,7 +19,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**, complete with keyboard support and button click sounds. Designed to be clean, responsive, and easy to use.
 <!-- ## Badges -->
 
