@@ -32,14 +32,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/calculator-app.png" width="600">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/calculator-multiplication.png" width="45%">
-  <img src="screenshots/calculator-division.png" width="45%">
+  <img src="screenshots/calculator-mockup.png" width="600">
 </p>
 
 ---
@@ -66,9 +59,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 - ├── style.css
 - ├── script.js
 - ├── screenshots/
-- │   └── calculator-app.png
-- │   └── calculator-division.png
-- │   └── calculator-multiplication.png
+- │   └── calculator-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
