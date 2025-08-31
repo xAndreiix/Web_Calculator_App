@@ -35,6 +35,12 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
   <img src="screenshots/calculator-mockup.png" width="600">
 </p>
 
+<br>
+
+<p align="center">
+  <img src="screenshots/webpage-calculator-mockup.png" width="600">
+</p>
+
 ---
 
 ## Features
@@ -60,6 +66,7 @@ A fully functional calculator built using **HTML**, **CSS**, and **Vanilla JavaS
 - ├── script.js
 - ├── screenshots/
 - │   └── calculator-mockup.png
+- │   └── webpage-calculator-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
